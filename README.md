@@ -56,8 +56,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 2](https://solarianprogrammer.com/2018/01/12/writing-minimal-x86-64-jit-compiler-cpp-part-2/)
 - [Build a Live Code-reloader Library for C++](http://howistart.org/posts/cpp/1/index.html)
 - [Write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
-- [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
-- [Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
+- [Let&#39;s Build a Simple Database](https://cstack.github.io/db_tutorial/)
+- [Let&#39;s Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
 - [Write a Bootloader in C](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
 - [Linux Container in 500 Lines of Code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 - [Write Your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
@@ -109,12 +109,11 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 - Let's Code a TCP/IP Stack
 
-  - [Part 1: Ethernet & ARP](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
-  - [Part 2: IPv4 & ICMPv4](http://www.saminiir.com/lets-code-tcp-ip-stack-2-ipv4-icmpv4/)
-  - [Part 3: TCP Basics & Handshake](http://www.saminiir.com/lets-code-tcp-ip-stack-3-tcp-handshake/)
-  - [Part 4: TCP Data Flow & Socket API](http://www.saminiir.com/lets-code-tcp-ip-stack-4-tcp-data-flow-socket-api/)
+  - [Part 1: Ethernet &amp; ARP](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
+  - [Part 2: IPv4 &amp; ICMPv4](http://www.saminiir.com/lets-code-tcp-ip-stack-2-ipv4-icmpv4/)
+  - [Part 3: TCP Basics &amp; Handshake](http://www.saminiir.com/lets-code-tcp-ip-stack-3-tcp-handshake/)
+  - [Part 4: TCP Data Flow &amp; Socket API](http://www.saminiir.com/lets-code-tcp-ip-stack-4-tcp-data-flow-socket-api/)
   - [Part 5: TCP Retransmission](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
-
 - Programming concurrent servers
 
   - [Part 1 - Introduction](https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/)
@@ -123,8 +122,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 4 - libuv](https://eli.thegreenplace.net/2017/concurrent-servers-part-4-libuv/)
   - [Part 5 - Redis case study](https://eli.thegreenplace.net/2017/concurrent-servers-part-5-redis-case-study/)
   - [Part 6 - Callbacks, Promises and async/await](https://eli.thegreenplace.net/2018/concurrent-servers-part-6-callbacks-promises-and-asyncawait/)
-
 - MQTT Broker from scratch
+
   - [Part 1 - The protocol](https://codepr.github.io/posts/sol-mqtt-broker)
   - [Part 2 - Networking](https://codepr.github.io/posts/sol-mqtt-broker-p2)
   - [Part 3 - Server](https://codepr.github.io/posts/sol-mqtt-broker-p3)
@@ -165,7 +164,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 - [Build a Twitter Bot with Clojure](http://howistart.org/posts/clojure/1/index.html)
 - [Building a Spell-Checker](https://bernhardwenzel.com/articles/clojure-spellchecker/)
-- [Building a JIRA integration with Clojure & Atlassian Connect](https://hackernoon.com/building-a-jira-integration-with-clojure-atlassian-connect-506ebd112807)
+- [Building a JIRA integration with Clojure &amp; Atlassian Connect](https://hackernoon.com/building-a-jira-integration-with-clojure-atlassian-connect-506ebd112807)
 - [Prototyping with Clojure](https://github.com/aliaksandr-s/prototyping-with-clojure)
 - [Tetris in ClojureScript](https://shaunlebron.github.io/t3tr0s-slides)
 
@@ -221,7 +220,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 - [Build A Loading Screen](https://medium.freecodecamp.org/how-to-build-a-delightful-loading-screen-in-5-minutes-847991da509f)
 - [Build an HTML Calculator with JS](https://medium.freecodecamp.org/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98)
-- [Build Snake using only JavaScript, HTML & CSS](https://www.freecodecamp.org/news/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e/)
+- [Build Snake using only JavaScript, HTML &amp; CSS](https://www.freecodecamp.org/news/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e/)
 
 ### Mobile Application:
 
@@ -267,6 +266,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 - [Build an Instagram Clone with Angular 1.x](https://hackhands.com/building-instagram-clone-angularjs-satellizer-nodejs-mongodb/)
 - Build an offline-capable Hacker News client with Angular 2+
+
   - [Part 1](https://houssein.me/angular2-hacker-news)
   - [Part 2](https://houssein.me/progressive-angular-applications)
 - [Build a Google+ clone with Django and AngularJS (Angular 1.x)](https://thinkster.io/django-angularjs-tutorial)
@@ -274,9 +274,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
   - [Part I](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
   - [Part II](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-8-the-ultimate-guide-2019-part-ii-fe70852b2d6d)
-
 - [Build Responsive layout with BootStrap 4 and Angular 6](https://medium.com/@tomastrajan/how-to-build-responsive-layouts-with-bootstrap-4-and-angular-6-cfbb108d797b)
 - ToDo App with Angular 5
+
   - [Introduction to Angular](http://www.discoversdk.com/blog/intro-to-angular-and-the-evolution-of-the-web)
   - [Part 1](http://www.discoversdk.com/blog/angular-5-to-do-list-app-part-1)
 
@@ -382,7 +382,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build a Todo List with Django and Test-Driven Development](http://www.obeythetestinggoat.com/)
 - [Build a RESTful Microservice in Python](http://www.skybert.net/python/developing-a-restful-micro-service-in-python/)
 - [Microservices with Docker, Flask, and React](https://testdriven.io/)
-- [Build A Simple Web App With Flask](https://pythonspot.com/flask-web-app-with-python/)
+- [~~Build A Simple Web App With Flask~~](https://pythonspot.com/flask-web-app-with-python/)
 - [Create A Django API in under 20 minutes](https://codeburst.io/create-a-django-api-in-under-20-minutes-2a082a60f6f3)
 - Build a Community-driven delivery application with Django, Postgres and JavaScript
   - [Part 1](https://www.ashwinhariharan.tech/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead/)
@@ -477,7 +477,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - Learn Twitter Sentiment Analysis -
   - [Part I - Data Cleaning](https://towardsdatascience.com/another-twitter-sentiment-analysis-bb5b01ebad90)
   - [Part II - EDA, Data Visualisation](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-2-333514854913)
-  - [Part III - Zipf's Law, Data Visualisation](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-3-zipfs-law-data-visualisation-fc9eadda71e7)
+  - [Part III - Zipf&#39;s Law, Data Visualisation](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-3-zipfs-law-data-visualisation-fc9eadda71e7)
   - [Part IV - Feature Extraction(count vectoriser)](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-4-count-vectorizer-b3f4944e51b5)
   - [Part V - Feature Extraction(Tfidf vectoriser)](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-5-50b4e87d9bdd)
   - [Part VI - Doc2Vec](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-6-doc2vec-603f11832504)
@@ -522,7 +522,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Create terminal ASCII art](https://robertheaton.com/2018/06/12/programming-projects-for-advanced-beginners-ascii-art/)
 - [Write a Tic-Tac-Toe AI](https://robertheaton.com/2018/10/09/programming-projects-for-advanced-beginners-3-a/)
 - [Create photomosaic art](https://robertheaton.com/2018/11/03/programming-project-4-photomosaics/)
-- [Build the game "Snake" in the terminal](https://robertheaton.com/2018/12/02/programming-project-5-snake/)
+- [Build the game &#34;Snake&#34; in the terminal](https://robertheaton.com/2018/12/02/programming-project-5-snake/)
 - [Write yourself a Git](https://wyag.thb.lt/)
 - [A Python implementation of a Python bytecode runner](https://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
 - [Create a Voice assistant using Python](https://www.geeksforgeeks.org/voice-assistant-using-python/)
@@ -596,7 +596,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - Build your own Redis
   - [Part 0: Introduction](https://rohitpaulk.com/articles/redis-0)
   - [Part 1: Barebones TCP Server](https://rohitpaulk.com/articles/redis-1)
-  - [Part 2: PING <-> PONG](https://rohitpaulk.com/articles/redis-2)
+  - [Part 2: PING &lt;-&gt; PONG](https://rohitpaulk.com/articles/redis-2)
   - [Part 3: Concurrent Clients](https://rohitpaulk.com/articles/redis-3)
   - [Part 4: ECHO](https://rohitpaulk.com/articles/redis-4)
 - [Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
@@ -664,7 +664,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [ScotchIO](https://scotch.io/)
 - [Exercism](http://www.exercism.io/)
 - [Egghead.io](http://www.egghead.io/)
-- [Michael Herman's Blog](http://mherman.org/)
+- [Michael Herman&#39;s Blog](http://mherman.org/)
 - [Thinkster.io](http://thinkster.io)
 - [Enlight](https://enlight.nyc/)
 - [Hack Club Workshops](https://hackclub.com/workshops/)
